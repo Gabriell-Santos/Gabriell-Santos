@@ -17,7 +17,7 @@
 </div><br/>
 
 ## 📊 Minhas Estatísticas  
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriell-Santos&show_icons=true&theme=Darck&include_all_commits=true&count_private=true)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriell-Santos&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)
 
 
 
