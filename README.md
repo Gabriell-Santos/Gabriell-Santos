@@ -1,9 +1,8 @@
 # 👋 Olá! Eu sou o Gabriel dos Santos Ferreira  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Paulista (Unip Swift) - Campinas  
+
 💻 Apaixonado por tecnologia e aprendizado contínuo  
-🚀 Meu objetivo: **criar soluções que facilitem a vida das pessoas através da tecnologia**  
-🎯 Focado em me tornar um **desenvolvedor front-end**  
+🚀 Meu objetivo: **criar soluções que facilitem a vida das pessoas através da tecnologia**    
 
 ---
 
@@ -20,7 +19,5 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriell-Santos&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)
 
